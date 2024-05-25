@@ -16,5 +16,15 @@ Helpers:
 3. IRL guy
 4. IRL guy
 5. T_T
+
+### File
+
+| Type             | True/False |
+| ---------------  | ---------- |
+| Virus            | False      |
+| Verified         | False      |
+| Safe             | True       |
+| Free to install  | True       |
+
 <br>
 © 2024 E-Coders Team
