@@ -1,0 +1,3 @@
+waitforchild("defender")
+if defender:
+    virus.defend()
